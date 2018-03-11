@@ -1,4 +1,3 @@
 # helloworld
-this is a rep to practice Git Hub
-this is adithya 
+this is adithya  /n 
 i teaching new focks.
